@@ -7,7 +7,7 @@ const jwt = require('jsonwebtoken')
 
 const JWT_SECRET = 'sdjkfh8923yhjdksbfma@#*(&@*!^#&@bhjb2qiuhesdbhjdsfg839ujkdhfjk'
 
-mongoose.connect('mongodb://localhost:27017/VITHUB', {
+mongoose.connect('mongodb://localhost:27017/<enter your database-name>', {
 	useNewUrlParser: true,
 	useUnifiedTopology: true,
 	useCreateIndex: true
