@@ -1,0 +1,19 @@
+{
+  "name": "express_api",
+  "version": "1.0.0",
+  "description": "Have used bcryptjs for hashing the user password",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolausmaximus/User_authentication_api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolausmaximus/User_authentication_api/issues"
+  },
+  "homepage": "https://github.com/nicolausmaximus/User_authentication_api#readme"
+}
